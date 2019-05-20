@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nanmiaowu/Documents/C++/Sec8/exer_8_2/main.cpp
+iostream
+-
+template.h
+/Users/nanmiaowu/Documents/C++/Sec8/exer_8_2/template.h
+vector
+-
+string
+-
+
+/Users/nanmiaowu/Documents/C++/Sec8/exer_8_2/template.h
+

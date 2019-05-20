@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nanmiaowu/Documents/C++/Sec6/exer_6_1/hcat.cpp
+hcat.h
+/Users/nanmiaowu/Documents/C++/Sec6/exer_6_1/hcat.h
+vector
+-
+string
+-
+width.h
+/Users/nanmiaowu/Documents/C++/Sec6/exer_6_1/width.h
+
+/Users/nanmiaowu/Documents/C++/Sec6/exer_6_1/hcat.h
+vector
+-
+string
+-
+
+/Users/nanmiaowu/Documents/C++/Sec6/exer_6_1/width.h
+string
+-
+vector
+-
+

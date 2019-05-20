@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nanmiaowu/Documents/C++/Sec5/exer_5_6/Student_info.h
+iostream
+-
+string
+-
+vector
+-
+
+/Users/nanmiaowu/Documents/C++/Sec5/exer_5_6/extract_fails.cpp
+extract_fails.h
+/Users/nanmiaowu/Documents/C++/Sec5/exer_5_6/extract_fails.h
+Student_info.h
+/Users/nanmiaowu/Documents/C++/Sec5/exer_5_6/Student_info.h
+grade.h
+/Users/nanmiaowu/Documents/C++/Sec5/exer_5_6/grade.h
+vector
+-
+
+/Users/nanmiaowu/Documents/C++/Sec5/exer_5_6/extract_fails.h
+vector
+-
+Student_info.h
+/Users/nanmiaowu/Documents/C++/Sec5/exer_5_6/Student_info.h
+
+/Users/nanmiaowu/Documents/C++/Sec5/exer_5_6/grade.h
+Student_info.h
+/Users/nanmiaowu/Documents/C++/Sec5/exer_5_6/Student_info.h
+vector
+-
+

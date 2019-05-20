@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nanmiaowu/Documents/C++/Sec6/exer_6_0_1/not_space.h
+
+/Users/nanmiaowu/Documents/C++/Sec6/exer_6_0_1/space.h
+
+/Users/nanmiaowu/Documents/C++/Sec6/exer_6_0_1/split.cpp
+split.h
+/Users/nanmiaowu/Documents/C++/Sec6/exer_6_0_1/split.h
+not_space.h
+/Users/nanmiaowu/Documents/C++/Sec6/exer_6_0_1/not_space.h
+space.h
+/Users/nanmiaowu/Documents/C++/Sec6/exer_6_0_1/space.h
+vector
+-
+string
+-
+algorithm
+-
+
+/Users/nanmiaowu/Documents/C++/Sec6/exer_6_0_1/split.h
+vector
+-
+string
+-
+

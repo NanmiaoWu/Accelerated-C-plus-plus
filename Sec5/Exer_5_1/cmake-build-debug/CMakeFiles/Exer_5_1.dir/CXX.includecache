@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/compare_ignore_case.cpp
+compare_ignore_case.h
+/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/compare_ignore_case.h
+string
+-
+
+/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/compare_ignore_case.h
+string
+-
+

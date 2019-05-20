@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_0_7/vcat.cpp
+vcat.h
+/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_0_7/vcat.h
+vector
+-
+string
+-
+
+/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_0_7/vcat.h
+vector
+-
+string
+-
+

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nanmiaowu/Documents/C++/Sec5/exer_5_7/frame.h
+vector
+-
+string
+-
+width.h
+/Users/nanmiaowu/Documents/C++/Sec5/exer_5_7/width.h
+
+/Users/nanmiaowu/Documents/C++/Sec5/exer_5_7/main.cpp
+iostream
+-
+vector
+-
+string
+-
+width.h
+/Users/nanmiaowu/Documents/C++/Sec5/exer_5_7/width.h
+frame.h
+/Users/nanmiaowu/Documents/C++/Sec5/exer_5_7/frame.h
+
+/Users/nanmiaowu/Documents/C++/Sec5/exer_5_7/width.h
+string
+-
+vector
+-
+

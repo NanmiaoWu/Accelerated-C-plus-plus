@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nanmiaowu/Documents/C++/Sec10/exer_10_2/main.cpp
+iostream
+-
+template.h
+/Users/nanmiaowu/Documents/C++/Sec10/exer_10_2/template.h
+vector
+-
+iterator
+-
+
+/Users/nanmiaowu/Documents/C++/Sec10/exer_10_2/template.h
+stdexcept
+-
+algorithm
+-
+vector
+-
+

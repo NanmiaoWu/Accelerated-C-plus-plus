@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nanmiaowu/Documents/C++/Sec7/exer_7_0_3/gen_sentence.h
+vector
+-
+string
+-
+read_grammar.h
+/Users/nanmiaowu/Documents/C++/Sec7/exer_7_0_3/read_grammar.h
+
+/Users/nanmiaowu/Documents/C++/Sec7/exer_7_0_3/main.cpp
+iostream
+-
+vector
+-
+string
+-
+gen_sentence.h
+/Users/nanmiaowu/Documents/C++/Sec7/exer_7_0_3/gen_sentence.h
+read_grammar.h
+/Users/nanmiaowu/Documents/C++/Sec7/exer_7_0_3/read_grammar.h
+nrand.h
+/Users/nanmiaowu/Documents/C++/Sec7/exer_7_0_3/nrand.h
+
+/Users/nanmiaowu/Documents/C++/Sec7/exer_7_0_3/nrand.h
+
+/Users/nanmiaowu/Documents/C++/Sec7/exer_7_0_3/read_grammar.h
+iostream
+-
+vector
+-
+string
+-
+map
+-
+

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Exer_5_1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Exer_5_1">
+				<Option output="/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/cmake-build-debug/Exer_5_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/opt/llvm/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/Cellar/llvm/8.0.0/lib/clang/8.0.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 Exer_5_1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Exer_5_1/fast">
+				<Option output="/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/cmake-build-debug/Exer_5_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/opt/llvm/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/Cellar/llvm/8.0.0/lib/clang/8.0.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 Exer_5_1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/compare_ignore_case.cpp">
+			<Option target="Exer_5_1"/>
+		</Unit>
+		<Unit filename="/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/compare_ignore_case.h">
+			<Option target="Exer_5_1"/>
+		</Unit>
+		<Unit filename="/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/hcat.cpp">
+			<Option target="Exer_5_1"/>
+		</Unit>
+		<Unit filename="/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/hcat.h">
+			<Option target="Exer_5_1"/>
+		</Unit>
+		<Unit filename="/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/main.cpp">
+			<Option target="Exer_5_1"/>
+		</Unit>
+		<Unit filename="/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/permuted_index.cpp">
+			<Option target="Exer_5_1"/>
+		</Unit>
+		<Unit filename="/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/permuted_index.h">
+			<Option target="Exer_5_1"/>
+		</Unit>
+		<Unit filename="/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/rotate.cpp">
+			<Option target="Exer_5_1"/>
+		</Unit>
+		<Unit filename="/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/rotate.h">
+			<Option target="Exer_5_1"/>
+		</Unit>
+		<Unit filename="/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/split.cpp">
+			<Option target="Exer_5_1"/>
+		</Unit>
+		<Unit filename="/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/split.h">
+			<Option target="Exer_5_1"/>
+		</Unit>
+		<Unit filename="/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/unrotate.cpp">
+			<Option target="Exer_5_1"/>
+		</Unit>
+		<Unit filename="/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/unrotate.h">
+			<Option target="Exer_5_1"/>
+		</Unit>
+		<Unit filename="/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/vcat.cpp">
+			<Option target="Exer_5_1"/>
+		</Unit>
+		<Unit filename="/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/vcat.h">
+			<Option target="Exer_5_1"/>
+		</Unit>
+		<Unit filename="/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/width.cpp">
+			<Option target="Exer_5_1"/>
+		</Unit>
+		<Unit filename="/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/width.h">
+			<Option target="Exer_5_1"/>
+		</Unit>
+		<Unit filename="/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

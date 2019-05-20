@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nanmiaowu/Documents/C++/Sec6/exer_6_0_2/is_palindrome.h
+string
+-
+
+/Users/nanmiaowu/Documents/C++/Sec6/exer_6_0_2/main.cpp
+iostream
+-
+is_palindrome.h
+/Users/nanmiaowu/Documents/C++/Sec6/exer_6_0_2/is_palindrome.h
+vector
+-
+string
+-
+

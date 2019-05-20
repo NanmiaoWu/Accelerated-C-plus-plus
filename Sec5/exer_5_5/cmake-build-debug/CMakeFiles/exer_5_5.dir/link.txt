@@ -1,0 +1,1 @@
+/usr/local/opt/llvm/bin/clang++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/exer_5_5.dir/main.cpp.o CMakeFiles/exer_5_5.dir/center.cpp.o CMakeFiles/exer_5_5.dir/width.cpp.o CMakeFiles/exer_5_5.dir/padding.cpp.o  -o exer_5_5 

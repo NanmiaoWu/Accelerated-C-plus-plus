@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_0_5/main.cpp
+iostream
+-
+string
+-
+vector
+-
+split.h
+/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_0_5/split.h
+
+/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_0_5/split.cpp
+split.h
+/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_0_5/split.h
+vector
+-
+string
+-
+cctype
+-
+
+/Users/nanmiaowu/Documents/C++/Sec5/Exer_5_0_5/split.h
+vector
+-
+string
+-
+

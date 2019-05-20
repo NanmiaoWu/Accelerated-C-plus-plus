@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nanmiaowu/Documents/C++/Sec10/exer_10_4/String_list.h
+string
+-
+list
+-
+node.h
+/Users/nanmiaowu/Documents/C++/Sec10/exer_10_4/node.h
+
+/Users/nanmiaowu/Documents/C++/Sec10/exer_10_4/main.cpp
+iostream
+-
+String_list.h
+/Users/nanmiaowu/Documents/C++/Sec10/exer_10_4/String_list.h
+
+/Users/nanmiaowu/Documents/C++/Sec10/exer_10_4/node.h
+string
+-
+
