@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/nanmiaowu/Documents/C++/Sec10/exer_10_4/String_list.cpp" "/Users/nanmiaowu/Documents/C++/Sec10/exer_10_4/cmake-build-debug/CMakeFiles/exer_10_4.dir/String_list.cpp.o"
-  "/Users/nanmiaowu/Documents/C++/Sec10/exer_10_4/main.cpp" "/Users/nanmiaowu/Documents/C++/Sec10/exer_10_4/cmake-build-debug/CMakeFiles/exer_10_4.dir/main.cpp.o"
-  "/Users/nanmiaowu/Documents/C++/Sec10/exer_10_4/node.cpp" "/Users/nanmiaowu/Documents/C++/Sec10/exer_10_4/cmake-build-debug/CMakeFiles/exer_10_4.dir/node.cpp.o"
+  "/Users/nanmiaowu/Documents/C++/Accelerated-C-plus-plus/Sec10/exer_10_4/String_list.cpp" "/Users/nanmiaowu/Documents/C++/Accelerated-C-plus-plus/Sec10/exer_10_4/cmake-build-debug/CMakeFiles/exer_10_4.dir/String_list.cpp.o"
+  "/Users/nanmiaowu/Documents/C++/Accelerated-C-plus-plus/Sec10/exer_10_4/main.cpp" "/Users/nanmiaowu/Documents/C++/Accelerated-C-plus-plus/Sec10/exer_10_4/cmake-build-debug/CMakeFiles/exer_10_4.dir/main.cpp.o"
+  "/Users/nanmiaowu/Documents/C++/Accelerated-C-plus-plus/Sec10/exer_10_4/node.cpp" "/Users/nanmiaowu/Documents/C++/Accelerated-C-plus-plus/Sec10/exer_10_4/cmake-build-debug/CMakeFiles/exer_10_4.dir/node.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "Clang")
 

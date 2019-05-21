@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/nanmiaowu/Documents/C++/Sec10/exer_10_4
+CMAKE_SOURCE_DIR = /Users/nanmiaowu/Documents/C++/Accelerated-C-plus-plus/Sec10/exer_10_4
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/nanmiaowu/Documents/C++/Sec10/exer_10_4/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/nanmiaowu/Documents/C++/Accelerated-C-plus-plus/Sec10/exer_10_4/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/exer_10_4.dir/depend.make
@@ -59,42 +59,42 @@ include CMakeFiles/exer_10_4.dir/flags.make
 
 CMakeFiles/exer_10_4.dir/main.cpp.o: CMakeFiles/exer_10_4.dir/flags.make
 CMakeFiles/exer_10_4.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nanmiaowu/Documents/C++/Sec10/exer_10_4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/exer_10_4.dir/main.cpp.o"
-	/usr/local/opt/llvm/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/exer_10_4.dir/main.cpp.o -c /Users/nanmiaowu/Documents/C++/Sec10/exer_10_4/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nanmiaowu/Documents/C++/Accelerated-C-plus-plus/Sec10/exer_10_4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/exer_10_4.dir/main.cpp.o"
+	/usr/local/opt/llvm/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/exer_10_4.dir/main.cpp.o -c /Users/nanmiaowu/Documents/C++/Accelerated-C-plus-plus/Sec10/exer_10_4/main.cpp
 
 CMakeFiles/exer_10_4.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/exer_10_4.dir/main.cpp.i"
-	/usr/local/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nanmiaowu/Documents/C++/Sec10/exer_10_4/main.cpp > CMakeFiles/exer_10_4.dir/main.cpp.i
+	/usr/local/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nanmiaowu/Documents/C++/Accelerated-C-plus-plus/Sec10/exer_10_4/main.cpp > CMakeFiles/exer_10_4.dir/main.cpp.i
 
 CMakeFiles/exer_10_4.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/exer_10_4.dir/main.cpp.s"
-	/usr/local/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nanmiaowu/Documents/C++/Sec10/exer_10_4/main.cpp -o CMakeFiles/exer_10_4.dir/main.cpp.s
+	/usr/local/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nanmiaowu/Documents/C++/Accelerated-C-plus-plus/Sec10/exer_10_4/main.cpp -o CMakeFiles/exer_10_4.dir/main.cpp.s
 
 CMakeFiles/exer_10_4.dir/String_list.cpp.o: CMakeFiles/exer_10_4.dir/flags.make
 CMakeFiles/exer_10_4.dir/String_list.cpp.o: ../String_list.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nanmiaowu/Documents/C++/Sec10/exer_10_4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/exer_10_4.dir/String_list.cpp.o"
-	/usr/local/opt/llvm/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/exer_10_4.dir/String_list.cpp.o -c /Users/nanmiaowu/Documents/C++/Sec10/exer_10_4/String_list.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nanmiaowu/Documents/C++/Accelerated-C-plus-plus/Sec10/exer_10_4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/exer_10_4.dir/String_list.cpp.o"
+	/usr/local/opt/llvm/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/exer_10_4.dir/String_list.cpp.o -c /Users/nanmiaowu/Documents/C++/Accelerated-C-plus-plus/Sec10/exer_10_4/String_list.cpp
 
 CMakeFiles/exer_10_4.dir/String_list.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/exer_10_4.dir/String_list.cpp.i"
-	/usr/local/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nanmiaowu/Documents/C++/Sec10/exer_10_4/String_list.cpp > CMakeFiles/exer_10_4.dir/String_list.cpp.i
+	/usr/local/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nanmiaowu/Documents/C++/Accelerated-C-plus-plus/Sec10/exer_10_4/String_list.cpp > CMakeFiles/exer_10_4.dir/String_list.cpp.i
 
 CMakeFiles/exer_10_4.dir/String_list.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/exer_10_4.dir/String_list.cpp.s"
-	/usr/local/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nanmiaowu/Documents/C++/Sec10/exer_10_4/String_list.cpp -o CMakeFiles/exer_10_4.dir/String_list.cpp.s
+	/usr/local/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nanmiaowu/Documents/C++/Accelerated-C-plus-plus/Sec10/exer_10_4/String_list.cpp -o CMakeFiles/exer_10_4.dir/String_list.cpp.s
 
 CMakeFiles/exer_10_4.dir/node.cpp.o: CMakeFiles/exer_10_4.dir/flags.make
 CMakeFiles/exer_10_4.dir/node.cpp.o: ../node.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nanmiaowu/Documents/C++/Sec10/exer_10_4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/exer_10_4.dir/node.cpp.o"
-	/usr/local/opt/llvm/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/exer_10_4.dir/node.cpp.o -c /Users/nanmiaowu/Documents/C++/Sec10/exer_10_4/node.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nanmiaowu/Documents/C++/Accelerated-C-plus-plus/Sec10/exer_10_4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/exer_10_4.dir/node.cpp.o"
+	/usr/local/opt/llvm/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/exer_10_4.dir/node.cpp.o -c /Users/nanmiaowu/Documents/C++/Accelerated-C-plus-plus/Sec10/exer_10_4/node.cpp
 
 CMakeFiles/exer_10_4.dir/node.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/exer_10_4.dir/node.cpp.i"
-	/usr/local/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nanmiaowu/Documents/C++/Sec10/exer_10_4/node.cpp > CMakeFiles/exer_10_4.dir/node.cpp.i
+	/usr/local/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nanmiaowu/Documents/C++/Accelerated-C-plus-plus/Sec10/exer_10_4/node.cpp > CMakeFiles/exer_10_4.dir/node.cpp.i
 
 CMakeFiles/exer_10_4.dir/node.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/exer_10_4.dir/node.cpp.s"
-	/usr/local/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nanmiaowu/Documents/C++/Sec10/exer_10_4/node.cpp -o CMakeFiles/exer_10_4.dir/node.cpp.s
+	/usr/local/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nanmiaowu/Documents/C++/Accelerated-C-plus-plus/Sec10/exer_10_4/node.cpp -o CMakeFiles/exer_10_4.dir/node.cpp.s
 
 # Object files for target exer_10_4
 exer_10_4_OBJECTS = \
@@ -110,7 +110,7 @@ exer_10_4: CMakeFiles/exer_10_4.dir/String_list.cpp.o
 exer_10_4: CMakeFiles/exer_10_4.dir/node.cpp.o
 exer_10_4: CMakeFiles/exer_10_4.dir/build.make
 exer_10_4: CMakeFiles/exer_10_4.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/nanmiaowu/Documents/C++/Sec10/exer_10_4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable exer_10_4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/nanmiaowu/Documents/C++/Accelerated-C-plus-plus/Sec10/exer_10_4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable exer_10_4"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/exer_10_4.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -123,6 +123,6 @@ CMakeFiles/exer_10_4.dir/clean:
 .PHONY : CMakeFiles/exer_10_4.dir/clean
 
 CMakeFiles/exer_10_4.dir/depend:
-	cd /Users/nanmiaowu/Documents/C++/Sec10/exer_10_4/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/nanmiaowu/Documents/C++/Sec10/exer_10_4 /Users/nanmiaowu/Documents/C++/Sec10/exer_10_4 /Users/nanmiaowu/Documents/C++/Sec10/exer_10_4/cmake-build-debug /Users/nanmiaowu/Documents/C++/Sec10/exer_10_4/cmake-build-debug /Users/nanmiaowu/Documents/C++/Sec10/exer_10_4/cmake-build-debug/CMakeFiles/exer_10_4.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/nanmiaowu/Documents/C++/Accelerated-C-plus-plus/Sec10/exer_10_4/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/nanmiaowu/Documents/C++/Accelerated-C-plus-plus/Sec10/exer_10_4 /Users/nanmiaowu/Documents/C++/Accelerated-C-plus-plus/Sec10/exer_10_4 /Users/nanmiaowu/Documents/C++/Accelerated-C-plus-plus/Sec10/exer_10_4/cmake-build-debug /Users/nanmiaowu/Documents/C++/Accelerated-C-plus-plus/Sec10/exer_10_4/cmake-build-debug /Users/nanmiaowu/Documents/C++/Accelerated-C-plus-plus/Sec10/exer_10_4/cmake-build-debug/CMakeFiles/exer_10_4.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/exer_10_4.dir/depend
 

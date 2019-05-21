@@ -1,4 +1,4 @@
-# Install script for directory: /Users/nanmiaowu/Documents/C++/Sec10/exer_10_4
+# Install script for directory: /Users/nanmiaowu/Documents/C++/Accelerated-C-plus-plus/Sec10/exer_10_4
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/nanmiaowu/Documents/C++/Sec10/exer_10_4/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/nanmiaowu/Documents/C++/Accelerated-C-plus-plus/Sec10/exer_10_4/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
