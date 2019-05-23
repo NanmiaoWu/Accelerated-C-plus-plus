@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  Sec4_0_1
-//
-//  Created by Nanmiao Wu on 3/28/19.
-//  Copyright © 2019 Nanmiao Wu. All rights reserved.
-//
-
 #include <iostream>
 #include <string>
 #include <vector>
@@ -25,7 +17,7 @@ double median(vector<double> vec)
 {
     typedef vector<double>::size_type vec_sz;
     vec_sz size = vec.size();
-    
+
     if (size == 0)
         throw domain_error("median of an empty vector");
     sort(vec.begin(),vec.end());
@@ -53,11 +45,11 @@ istream& read_hw(istream& in, vector<double>& hw)
 {
     if (in){
         hw.clear();
-        
+
         double x;
         while (in >> x)
             hw.push_back(x);
-        
+
         in.clear();
     }
     return in;
@@ -69,47 +61,31 @@ int main()
     cout << "Enter student's name: ";
     string name;
     cin >> name;
-    
+
     // ask for midterm and final
     cout << "Enter midterm and final grades: ";
     double midterm, final;
     cin >> midterm >> final;
-    
+
     // ask for homework
     cout << "Enter homework, "
-    "followed by end-of-file: ";
-    
+            "followed by end-of-file: ";
+
     // read homework
     vector<double> homework;
     read_hw(cin, homework);
-    
+
     try{
         double final_grade = grade(midterm, final, homework);
         streamsize prec = cout.precision();
         cout << "Your final grade is: " << setprecision(3)
-        << final_grade << setprecision(prec) << endl;
-        
+             << final_grade << setprecision(prec) << endl;
+
     }catch (domain_error){
         cout << endl << "You must enter your grades. " << endl;
         return 1;
-        
+
     }
-    
+
     return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
