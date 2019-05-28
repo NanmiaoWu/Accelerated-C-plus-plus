@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nanmiao/Documents/Accelerated-C-plus-plus/Sec11/exer_11_8/List.h
+cstddef
+-
+memory
+-
+
+/home/nanmiao/Documents/Accelerated-C-plus-plus/Sec11/exer_11_8/main.cpp
+iostream
+-
+List.h
+/home/nanmiao/Documents/Accelerated-C-plus-plus/Sec11/exer_11_8/List.h
+string
+-
+iterator
+-
+iostream
+-
+vector
+-
+

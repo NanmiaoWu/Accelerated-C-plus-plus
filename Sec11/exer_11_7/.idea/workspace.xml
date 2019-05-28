@@ -12,20 +12,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13b3874c-464f-4ca4-ba49-6595815f205e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../exer_11_0_1/.idea/exer_11_0_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exer_11_0_1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exer_11_0_1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exer_11_0_1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exer_11_0_1/Vec.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exer_11_6/.idea/exer_11_6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exer_11_6/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exer_11_6/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exer_11_6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exer_11_6/Vec.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/exer_11_7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vec.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Sec4/4_0/4_0_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sec4/4_0/4_0_1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exer_11_8/.idea/exer_11_8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exer_11_8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exer_11_8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exer_11_8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exer_11_8/List.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,8 +56,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+            <state relative-caret-position="588">
+              <caret line="28" column="12" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -235,15 +227,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558973913241</updated>
-      <workItem from="1558973914463" duration="2041000" />
+      <workItem from="1558973914463" duration="3545000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2041000" />
+    <option name="totallyTimeSpent" value="3545000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="183" y="39" width="1607" height="1003" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983984" />
@@ -349,8 +342,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        <state relative-caret-position="588">
+          <caret line="28" column="12" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>

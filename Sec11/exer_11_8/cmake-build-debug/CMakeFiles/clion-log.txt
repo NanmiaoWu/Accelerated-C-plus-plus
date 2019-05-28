@@ -1,0 +1,4 @@
+/home/nanmiao/clion-2019.1.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/nanmiao/Documents/Accelerated-C-plus-plus/Sec11/exer_11_8
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/nanmiao/Documents/Accelerated-C-plus-plus/Sec11/exer_11_8/cmake-build-debug
