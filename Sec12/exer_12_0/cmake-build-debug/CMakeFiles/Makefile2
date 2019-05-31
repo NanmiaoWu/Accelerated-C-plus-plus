@@ -71,7 +71,7 @@ CMAKE_BINARY_DIR = /home/nanmiao/Documents/Accelerated-C-plus-plus/Sec12/exer_12
 CMakeFiles/exer_12_0.dir/all:
 	$(MAKE) -f CMakeFiles/exer_12_0.dir/build.make CMakeFiles/exer_12_0.dir/depend
 	$(MAKE) -f CMakeFiles/exer_12_0.dir/build.make CMakeFiles/exer_12_0.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/nanmiao/Documents/Accelerated-C-plus-plus/Sec12/exer_12_0/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target exer_12_0"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/nanmiao/Documents/Accelerated-C-plus-plus/Sec12/exer_12_0/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4 "Built target exer_12_0"
 .PHONY : CMakeFiles/exer_12_0.dir/all
 
 # Include target in all.
@@ -81,7 +81,7 @@ all: CMakeFiles/exer_12_0.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exer_12_0.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/nanmiao/Documents/Accelerated-C-plus-plus/Sec12/exer_12_0/cmake-build-debug/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/nanmiao/Documents/Accelerated-C-plus-plus/Sec12/exer_12_0/cmake-build-debug/CMakeFiles 4
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/exer_12_0.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/nanmiao/Documents/Accelerated-C-plus-plus/Sec12/exer_12_0/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/exer_12_0.dir/rule

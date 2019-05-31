@@ -30,3 +30,9 @@ istream& operator>>(istream& is, Str& s){
     }
     return is;
 }
+
+Str operator+(const Str& s, const Str& t){
+    Str r = s;
+    r += t;
+    return r;
+}

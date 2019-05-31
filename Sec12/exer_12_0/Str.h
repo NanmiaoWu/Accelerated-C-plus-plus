@@ -13,6 +13,13 @@ class Str{
     friend std::istream& operator>>(std::istream&, Str&);
 
 public:
+
+    // compound operator changes left operand => member
+    Str& operator+=(const Str& s){
+        std::copy(s.data.begin(), s.data.end(), std::back_inserter(data));
+        return *this;
+    }
+
     typedef Vec<char>::size_type size_type;
 
     size_type size() const {return data.size();}
@@ -41,6 +48,9 @@ private:
 
 // output operator
 std::ostream& operator<<(std::ostream&, const Str&);
+
+// concatenation operator
+Str operator+(const Str&, const Str&);
 
 
 #endif //EXER_12_0_STR_H

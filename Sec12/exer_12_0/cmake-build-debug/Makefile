@@ -150,6 +150,33 @@ Str.cpp.s:
 	$(MAKE) -f CMakeFiles/exer_12_0.dir/build.make CMakeFiles/exer_12_0.dir/Str.cpp.s
 .PHONY : Str.cpp.s
 
+Student_info.o: Student_info.cpp.o
+
+.PHONY : Student_info.o
+
+# target to build an object file
+Student_info.cpp.o:
+	$(MAKE) -f CMakeFiles/exer_12_0.dir/build.make CMakeFiles/exer_12_0.dir/Student_info.cpp.o
+.PHONY : Student_info.cpp.o
+
+Student_info.i: Student_info.cpp.i
+
+.PHONY : Student_info.i
+
+# target to preprocess a source file
+Student_info.cpp.i:
+	$(MAKE) -f CMakeFiles/exer_12_0.dir/build.make CMakeFiles/exer_12_0.dir/Student_info.cpp.i
+.PHONY : Student_info.cpp.i
+
+Student_info.s: Student_info.cpp.s
+
+.PHONY : Student_info.s
+
+# target to generate assembly for a file
+Student_info.cpp.s:
+	$(MAKE) -f CMakeFiles/exer_12_0.dir/build.make CMakeFiles/exer_12_0.dir/Student_info.cpp.s
+.PHONY : Student_info.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -189,6 +216,9 @@ help:
 	@echo "... Str.o"
 	@echo "... Str.i"
 	@echo "... Str.s"
+	@echo "... Student_info.o"
+	@echo "... Student_info.i"
+	@echo "... Student_info.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

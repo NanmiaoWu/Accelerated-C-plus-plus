@@ -5,7 +5,11 @@ CMakeFiles/exer_12_0.dir/Str.cpp.o: ../Str.cpp
 CMakeFiles/exer_12_0.dir/Str.cpp.o: ../Str.h
 CMakeFiles/exer_12_0.dir/Str.cpp.o: ../Vec.h
 
+CMakeFiles/exer_12_0.dir/Student_info.cpp.o: ../Student_info.cpp
+CMakeFiles/exer_12_0.dir/Student_info.cpp.o: ../Student_info.h
+
 CMakeFiles/exer_12_0.dir/main.cpp.o: ../Str.h
+CMakeFiles/exer_12_0.dir/main.cpp.o: ../Student_info.h
 CMakeFiles/exer_12_0.dir/main.cpp.o: ../Vec.h
 CMakeFiles/exer_12_0.dir/main.cpp.o: ../main.cpp
 

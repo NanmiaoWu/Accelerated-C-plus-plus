@@ -1,11 +1,11 @@
 #include <iostream>
 #include "Str.h"
+#include "Student_info.h"
 
 
 using namespace std;
 
 int main() {
-    Str values;
-   operator>>(cin, values);
+
     return 0;
 }

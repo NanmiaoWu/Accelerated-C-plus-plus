@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/nanmiao/Documents/Accelerated-C-plus-plus/Sec12/exer_12_0/Str.cpp" "/home/nanmiao/Documents/Accelerated-C-plus-plus/Sec12/exer_12_0/cmake-build-debug/CMakeFiles/exer_12_0.dir/Str.cpp.o"
+  "/home/nanmiao/Documents/Accelerated-C-plus-plus/Sec12/exer_12_0/Student_info.cpp" "/home/nanmiao/Documents/Accelerated-C-plus-plus/Sec12/exer_12_0/cmake-build-debug/CMakeFiles/exer_12_0.dir/Student_info.cpp.o"
   "/home/nanmiao/Documents/Accelerated-C-plus-plus/Sec12/exer_12_0/main.cpp" "/home/nanmiao/Documents/Accelerated-C-plus-plus/Sec12/exer_12_0/cmake-build-debug/CMakeFiles/exer_12_0.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
