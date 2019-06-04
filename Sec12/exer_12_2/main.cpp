@@ -13,6 +13,6 @@ int main() {
     const char* data = t.data();
     t[6] = 'W';
     cout << data << endl;
-    
+
     return 0;
 }
