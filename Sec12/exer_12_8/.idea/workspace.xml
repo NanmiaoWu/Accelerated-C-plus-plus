@@ -10,19 +10,78 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2ffa517-089f-4e3b-b7f7-8cc5e28edeea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/exer_12_8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/.idea/exer_13_0_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/Core.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/Core.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/Student_info.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/Student_info.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exer_12_7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exer_12_7/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sec13/exer_13_1/.idea/exer_13_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sec13/exer_13_1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sec13/exer_13_1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sec13/exer_13_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sec13/exer_13_2/.idea/exer_13_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sec13/exer_13_2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sec13/exer_13_2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sec13/exer_13_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sec13/exer_13_3/.idea/exer_13_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sec13/exer_13_3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sec13/exer_13_3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sec13/exer_13_3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sec13/exer_13_4/.idea/exer_13_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sec13/exer_13_4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sec13/exer_13_4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sec13/exer_13_4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/.idea/exer_13_0_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/Core.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/Core.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/Student_info.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/Student_info.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/CMakeFiles/3.14.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/CMakeFiles/3.14.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/CMakeFiles/3.14.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/CMakeFiles/exer_13_0_1.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/CMakeFiles/exer_13_0_1.dir/Core.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/CMakeFiles/exer_13_0_1.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/CMakeFiles/exer_13_0_1.dir/Student_info.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/CMakeFiles/exer_13_0_1.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/CMakeFiles/exer_13_0_1.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/CMakeFiles/exer_13_0_1.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/CMakeFiles/exer_13_0_1.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/CMakeFiles/exer_13_0_1.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/CMakeFiles/exer_13_0_1.dir/grade.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/CMakeFiles/exer_13_0_1.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/CMakeFiles/exer_13_0_1.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/CMakeFiles/exer_13_0_1.dir/median.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/CMakeFiles/exer_13_0_1.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/exer_13_0_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/cmake-build-debug/exer_13_0_1.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/grade.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/grade.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/median.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sec13/exer_13_0_1/median.h" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -108,6 +167,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="202" y="24" width="1607" height="1003" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2530429" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

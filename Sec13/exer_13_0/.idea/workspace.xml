@@ -11,21 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="716e1fb1-0fee-47e6-bbb8-4abd906b3a7b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Sec12/exer_12_8/.idea/exer_12_8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sec12/exer_12_8/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sec12/exer_12_8/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Sec12/exer_12_8/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/exer_13_0_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student_info.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student_info.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Sec12/exer_12_7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sec12/exer_12_7/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="716e1fb1-0fee-47e6-bbb8-4abd906b3a7b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,11 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="777">
-              <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="147">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -210,12 +193,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560262633517</updated>
-      <workItem from="1560262636010" duration="12300000" />
+      <workItem from="1560262636010" duration="12730000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12300000" />
+    <option name="totallyTimeSpent" value="12730000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="202" y="24" width="1607" height="1003" extended-state="0" />
@@ -231,7 +214,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32962137" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32962137" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -307,11 +290,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="777">
-          <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="147">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
