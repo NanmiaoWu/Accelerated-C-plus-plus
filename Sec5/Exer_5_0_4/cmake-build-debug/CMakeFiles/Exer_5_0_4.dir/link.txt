@@ -1,1 +1,0 @@
-/usr/local/opt/llvm/bin/clang++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Exer_5_0_4.dir/main.cpp.o CMakeFiles/Exer_5_0_4.dir/Student_info.cpp.o CMakeFiles/Exer_5_0_4.dir/median.cpp.o CMakeFiles/Exer_5_0_4.dir/grade.cpp.o CMakeFiles/Exer_5_0_4.dir/extract_fails4.cpp.o  -o Exer_5_0_4 
