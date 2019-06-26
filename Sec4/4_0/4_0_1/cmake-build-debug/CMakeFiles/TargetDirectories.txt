@@ -1,3 +1,0 @@
-/home/nanmiao/Documents/Accelerated-C-plus-plus/Sec4/4_0/4_0_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/nanmiao/Documents/Accelerated-C-plus-plus/Sec4/4_0/4_0_1/cmake-build-debug/CMakeFiles/4_0_1.dir
-/home/nanmiao/Documents/Accelerated-C-plus-plus/Sec4/4_0/4_0_1/cmake-build-debug/CMakeFiles/edit_cache.dir
