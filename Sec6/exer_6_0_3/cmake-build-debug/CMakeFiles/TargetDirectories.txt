@@ -1,3 +1,0 @@
-/Users/nanmiaowu/Documents/C++/Sec6/exer_6_0_3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/nanmiaowu/Documents/C++/Sec6/exer_6_0_3/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/nanmiaowu/Documents/C++/Sec6/exer_6_0_3/cmake-build-debug/CMakeFiles/exer_6_0_3.dir
