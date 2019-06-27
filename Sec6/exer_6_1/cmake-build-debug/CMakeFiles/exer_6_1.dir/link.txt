@@ -1,1 +1,0 @@
-/usr/local/opt/llvm/bin/clang++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/exer_6_1.dir/main.cpp.o CMakeFiles/exer_6_1.dir/frame.cpp.o CMakeFiles/exer_6_1.dir/width.cpp.o CMakeFiles/exer_6_1.dir/hcat.cpp.o  -o exer_6_1 
