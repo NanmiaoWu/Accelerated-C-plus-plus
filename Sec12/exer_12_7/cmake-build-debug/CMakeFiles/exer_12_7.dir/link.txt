@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/exer_12_7.dir/main.cpp.o CMakeFiles/exer_12_7.dir/Str.cpp.o  -o exer_12_7 
