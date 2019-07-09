@@ -1,3 +1,0 @@
-/home/nanmiao/Documents/Accelerated-C-plus-plus/Sec13/exer_13_7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/nanmiao/Documents/Accelerated-C-plus-plus/Sec13/exer_13_7/cmake-build-debug/CMakeFiles/exer_13_7.dir
-/home/nanmiao/Documents/Accelerated-C-plus-plus/Sec13/exer_13_7/cmake-build-debug/CMakeFiles/edit_cache.dir
