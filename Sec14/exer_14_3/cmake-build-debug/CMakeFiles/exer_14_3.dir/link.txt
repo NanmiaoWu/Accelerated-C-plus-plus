@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/exer_14_3.dir/main.cpp.o CMakeFiles/exer_14_3.dir/Core.cpp.o CMakeFiles/exer_14_3.dir/grade.cpp.o CMakeFiles/exer_14_3.dir/median.cpp.o CMakeFiles/exer_14_3.dir/Student_info.cpp.o  -o exer_14_3 
